@@ -6,6 +6,7 @@ Installation:
 
 1.(with Makefile)
 Give permissions and run: "chmod +x ./Makefile"
+
 2.(with command from Makefile)
 ```bash
 sudo docker build -t some-content-nginx .
