@@ -5,6 +5,7 @@ Job completed on Debian OS
 Need to use `sudo`
 
 ##Installation:
+-----------
 
 1.(with Makefile)
 Give permissions and run: "chmod +x ./Makefile"
