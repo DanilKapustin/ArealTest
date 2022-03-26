@@ -1,8 +1,10 @@
 # ArealTest
 
-Задание выполнено на ОС Debian
+##Attention
+Job completed on Debian OS
+Need to use `sudo`
 
-Installation:
+##Installation:
 
 1.(with Makefile)
 Give permissions and run: "chmod +x ./Makefile"
