@@ -3,7 +3,7 @@
 Attention
 -----------
 
-**Job completed Kapustin Danil on Debian OS**
+**Job completed** `Kapustin Danil` **on Debian OS**
 
 **Need to use `sudo`**
 
