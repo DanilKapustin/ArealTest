@@ -11,7 +11,7 @@ Installation:
 -----------
 
 - (with Makefile)
-Give permissions and run: "chmod +x ./Makefile"
+Give permissions and run: `chmod +x ./Makefile`
 
 - (with command from Makefile)
 ```bash
