@@ -3,9 +3,9 @@
 Attention
 -----------
 
-**Job completed on Debian OS
+**Job completed on Debian OS**
 
-Need to use `sudo`**
+**Need to use `sudo`**
 
 Installation:
 -----------
